@@ -42,7 +42,7 @@ Check out my 🫣 [#website](https://sharaf.me/), read my ✍️ [#blog](https:/
 
 ## 📈 Stats
 <a href="https://github.com/shadyvb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadyvb&hide=stars&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadyvb&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/shadyvb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvb&langs_count=6&layout=compact&theme=radical&hide=hack,html,css" />
