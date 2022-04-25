@@ -45,7 +45,7 @@ Check out my 🫣 [#website](https://sharaf.me/), read my ✍️ [#blog](https:/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadyvb&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/shadyvb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvb&langs_count=6&layout=compact&theme=radical&hide=hack,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadyvb&langs_count=8&layout=compact&theme=radical&hide=hack,html,css" />
 </a>
 <!--
 <a href="https://github.com/shadyvb">
