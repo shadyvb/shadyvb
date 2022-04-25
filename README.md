@@ -1,4 +1,5 @@
-## Hey there! I'm Shadi Sharaf , a Principal Product Engineer at [Human Made](https://humanmade.com/), makers of [Altis DXP](https://altis-dxp.com/)
+Hey there! 
+## I'm Shadi Sharaf , a Principal Product Engineer at [Human Made](https://humanmade.com/), makers of [Altis DXP](https://altis-dxp.com/)
 
 I help develop [Altis DXP](https://www.altis-dxp.com/) as my primary role, and help increase productivity and efficiency within the wider Engineering discipline of [Human Made](https://humanmade.com/) as part of the Engineering leadership team.
 
