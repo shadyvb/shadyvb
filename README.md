@@ -5,21 +5,31 @@ Hey there!
 
 Check out my 🫣 [#website](https://sharaf.me/), read my ✍️ [#blog](https://blog.sharaf.me/), or ping me at 📬 hey@
 
-- 🌍 [#cairo-egypt](https://www.google.com/maps/place/Cairo,+Cairo+Governorate,+Egypt) 🕑 [#gmt+2](https://time.is/Cairo), 
+- 🌍 [#porto](https://www.google.com/maps/place/Porto/@41.1621822,-8.663153) 🕑 [#gmt](https://time.is/Porto), 
 - 🤔 [#infj-t](https://www.16personalities.com/profiles/1ea431783a272) 🚀 [#chaotic-good](http://easydamus.com/chaoticgood.html) 🤗 [#open-minded-reliable-agreeable](https://www.outofservice.com/bigfive/results/?o=81,94,100&c=88,69,69&e=81,94,31&a=100,88,81&n=44,56,81&y=1980&g=m) 
 - ☀️ #morning-person ☕️ #coffee-geek 🤤 #foodie 👨‍👦 #father
 
 <h2 align="right">🔧 Tech</h2>
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logo=gnometerminal&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Fullstack-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Process-Agile-informational?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTIgOGEzIDMgMCAxMTMgM0gxYTEgMSAwIDEwMCAyaDExLjE5NWExIDEgMCAwMDEuNTEyIDEuM2wyLjMtMi4zLTIuMy0yLjMwMUExIDEgMCAwMDEyLjE5NSAxMUg5YTUgNSAwIDEwLTktMyAxIDEgMCAwMDIgMHoiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg==&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/macOS-OS-informational?style=for-the-badge&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VSCode-Editor-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Fish-Shell-informational?style=for-the-badge&logo=gnometerminal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Agile-Certified-informational?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTIgOGEzIDMgMCAxMTMgM0gxYTEgMSAwIDEwMCAyaDExLjE5NWExIDEgMCAwMDEuNTEyIDEuM2wyLjMtMi4zLTIuMy0yLjMwMUExIDEgMCAwMDEyLjE5NSAxMUg5YTUgNSAwIDEwLTktMyAxIDEgMCAwMDIgMHoiIGZpbGw9IiNmZmYiLz4KPC9zdmc+Cg==&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Docker-Tools-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CMS-WordPress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/PHP-Code-informational?style=for-the-badge&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/WordPress-CMS-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laravel-Framework-informational?style=for-the-badge&logo=laravel&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Fullstack-Code-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Typescript-JS-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NextJS-Framework-informational?style=for-the-badge&logo=next.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Elastic-Index-informational?style=for-the-badge&logo=elastic&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Meetup-Speaker-informational?style=for-the-badge&logo=meetup&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-Friendly-informational?style=for-the-badge&logo=claude&logoColor=white&color=2bbc8a)
+
 
 
 <h2 align="right">💎 Values</h2>
@@ -28,21 +38,20 @@ Check out my 🫣 [#website](https://sharaf.me/), read my ✍️ [#blog](https:/
 
 <h2 align="right">🗣 Talk to me about</h2>
 
-🕴 #leadership ⬆️ #team-development 💪 #high-performing-teams
+🤖 #automation #testing #ai-engineering
+🕴 #leadership ⬆️ #team-development 💪 #high-performing-teams 🤔 #data-driven-decisions
 ✅ #agile 📈 #metrics 🔁 #continuous-improvement
-🤔 #data-driven-decisions
-🤖 #automation-ci-cd
-🔎 #elastic-press
 
 <h2 align="right">🌴 Growth Areas</h2>
 
+🤖 #ai-engineering
 🤔 #leadership
 💪 #high-performing-teams
-🤖 #data-driven-ai 
 📈 #analytics
 🎤 #public-speaking
 🕸 #web3
 ☁️ #cloud-native
+
 
 <h2 align="right">📈 Stats</h2>
 
